@@ -1,0 +1,10 @@
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание1\График\График\obj\Debug\График.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание1\График\График\obj\Debug\graph.Form1.resources
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание1\График\График\obj\Debug\График.Properties.Resources.resources
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание1\График\График\obj\Debug\График.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание1\График\График\obj\Debug\График.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание1\График\График\bin\Debug\График.exe.config
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание1\График\График\bin\Debug\График.exe
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание1\График\График\bin\Debug\График.pdb
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание1\График\График\obj\Debug\График.exe
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание1\График\График\obj\Debug\График.pdb
